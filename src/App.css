@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+body {
+  background-color: bisque;
+  padding: 50px;
+}
+h1 {
+  text-align: center;
+}
+.ota{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 50px;
+} 
+.info{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+margin-top: 250px;
+}
+.infoo{
+  margin-top: 100px;
+}
